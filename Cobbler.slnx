@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/Greeter/Greeter.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Cobbler/Cobbler.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Cobbler.Tests/Cobbler.Tests.csproj" />
+  </Folder>
+</Solution>
