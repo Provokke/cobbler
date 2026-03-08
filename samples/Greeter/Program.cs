@@ -34,3 +34,4 @@ app.Add(new Command("farewell", "Say goodbye")
     }));
 
 return app.Run(args);
+
