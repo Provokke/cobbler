@@ -133,4 +133,3 @@ public class BuilderTests
         Assert.Null(Suggestions.Closest("x", Array.Empty<string>()));
     }
 }
-
